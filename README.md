@@ -14,4 +14,4 @@ To use this app, you will need to have an Android device or emulator running And
 If you would like to contribute to this project, feel free to submit a pull request. We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
 
 ## Screenshots
-![Screenshot_20230319_144457](https://user-images.githubusercontent.com/125926016/226176561-30399f8c-fc73-4b77-881e-87a36bffc0d2.png)
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/125926016/226176561-30399f8c-fc73-4b77-881e-87a36bffc0d2.png"></p>
